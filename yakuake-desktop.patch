@@ -7,5 +7,5 @@
 +Terminal=false
 +Categories=Qt;KDE;TerminalEmulator;
  Comment=A KDE konsole which looks like those found in Quake.
-+Comment[pl]=Konsola KDE wygl±dem przypominaj±ca tę z Quake.
++Comment[pl]=Konsola KDE wyglądem przypominająca tę z Quake.
 +# vi: encoding=utf-8
