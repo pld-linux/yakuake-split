@@ -1,15 +1,19 @@
-diff -urN yakuake-2.7.4.old/yakuake/src/yakuake.desktop yakuake-2.7.4/yakuake/src/yakuake.desktop
---- yakuake-2.7.4.old/yakuake/src/yakuake.desktop	2006-03-19 11:51:01.000000000 +0100
-+++ yakuake-2.7.4/yakuake/src/yakuake.desktop	2006-03-19 11:52:31.000000000 +0100
-@@ -4,7 +4,11 @@
+--- yakuake-2.7.5/yakuake/src/yakuake.desktop	2006-03-21 19:14:26.000000000 +0100
++++ yakuake-2.7.5/yakuake/src/yakuake.desktop	2006-03-22 17:01:39.000000000 +0100
+@@ -5,12 +5,16 @@
  Exec=yakuake
  Icon=yakuake
  Type=Application
 +Terminal=false
 +Categories=Qt;KDE;TerminalEmulator;
  Comment=A Quake-style terminal emulator based on KDE Konsole technology.
+ Comment[da]=En Quake-lignende terminalemulator baseret på teknologi fra KDE's program Konsole.
  Comment[de]=Ein der Quake-Konsole nachempfundener Terminalemulator basierend auf KDE Konsole.
 +Comment[pl]=Konsola KDE wyglądem przypominająca tą z Quake.
+ Comment[el]=Μία εφαρμογή τερματικού σε στυλ Quake, βασισμένη στην τεχνολογία του KDE Konsole
+ Comment[it]=Un emulatore di terminale sullo stile di Quake basato sulla tecnologia di KDE Konsole.
  Comment[pt]=Um emulador de terminal do estilo do Quake, baseado na tecnologia do Konsole do KDE.
+ Comment[pt_BR]=Um emulador de terminal no estilo do Quake, baseado na tecnologia do Konsole do KDE. 
  Comment[sv]=En Quake-liknande terminalemulator baserad på teknologi från KDE:s Terminal.
+ Comment[tr]=KDE Konsole teknolojisi üzerine kurulu Quake stili bir terminal emülatörü
 +# vi: encoding=utf-8
