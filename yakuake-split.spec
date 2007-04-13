@@ -12,7 +12,7 @@ Patch0:		kde-ac260.patch
 Patch1:		kde-ac260-lt.patch
 Patch2:		kde-am.patch
 Patch3:		yakuake-desktop.patch
-URL:		http://extragear.kde.org/apps/yakuake/
+URL:		http://www.kde-apps.org/content/show.php/yakuake-split?content=56234
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	kdelibs-devel >= 9:3.2.0
