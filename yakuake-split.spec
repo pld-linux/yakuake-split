@@ -2,12 +2,12 @@ Summary:	Very powerful Quake style Konsole
 Summary(de.UTF-8):	Ein Quake ähnlicher Konsole Emulator
 Summary(pl.UTF-8):	Rozbudowany emulator terminala w stylu Quake
 Name:		yakuake-split
-Version:	2.8.1
+Version:	2.8.1.1
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://kde-apps.org/CONTENT/content-files/56234-yakuake-%{version}.tar.gz
-# Source0-md5:	d85af4e268afe6f21746711b7e42901b
+# Source0-md5:	c7fe650a593bba1808034102ab07f38e
 Patch0:		kde-ac260.patch
 Patch1:		kde-ac260-lt.patch
 Patch2:		kde-am.patch
