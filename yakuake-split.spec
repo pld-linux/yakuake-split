@@ -27,7 +27,7 @@ A KDE konsole which looks like those found in Quake.
 Eine KDE Konsole die der aus Quake ähnelt.
 
 %description -l pl.UTF-8
-Konsola KDE wyglądem przypominająca tę z Quake.
+Konsola KDE wyglądem przypominająca konsolę komend z gry Quake.
 
 %prep
 %setup -q -n yakuake-%{version}
